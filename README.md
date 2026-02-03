@@ -1,5 +1,5 @@
 
-A Python game where the user tries to guess a randomly generated number.
+A game where the user tries to guess a randomly generated number.
 
 ## Features
 - Random number generation
